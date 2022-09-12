@@ -1,6 +1,6 @@
 ## Change Log
 
-#### v0.1
+#### v1.0
 
 - Release version1 reference.
 
